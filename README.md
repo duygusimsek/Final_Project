@@ -28,9 +28,12 @@ Through Yahoo! Finance, and Plotly we will be able to create visualizations that
 
 
 ## Database 
-For our database, we will be utilizing SQL, PgAdmin. We found the data on Yahoo Finance and downloaded the dataset as a CSV file.  We ran query in SQL to create and store the Apple_stock data found.  Please see imgae below for code and data output.  
+For our database, we will be utilizing SQL, PgAdmin. We found the data on Yahoo Finance and downloaded the dataset as a CSV file.  We ran query in SQL to create and store the Apple_stock data found.  Please see image below for code and data output.  
 
 ![Screen Shot 2022-07-10 at 2 41 52 PM](https://user-images.githubusercontent.com/99801608/178157842-eb15c1bb-27bb-42b5-9ed7-c525d698d36c.png)
+
+## Using Linear Regression to predict AAPL (Apple Stock): Mockup
+For this analysis, we will utilize a supervised machine learning model -- regression techniques -- in order to determine trends in Apple's stock market price. Pulling data from Yahoo Finance, we will train and test our model to help predict stock prices for the next 30 days or more. The way we plan on approaching this is by filtering the data, first, by month, and then extracting data for the past 10 years.
 
 ## Sources 
 

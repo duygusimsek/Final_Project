@@ -13,6 +13,5 @@ Tableau link https://public.tableau.com/views/BostonCrimeProject/CRIMECOUNT?:lan
 * [Duygu Simsek](https://github.com/duygusimsek) - GitHub Repository Owner (Square)
 * [Kimberly Smith](https://github.com/kimcamp33) - Data Framework Creation (Circle)
 
-### Database 
-For our database, we will be utilizing SQL, PgAdmin. We found the data on Yahoo Finance and downloaded the dataset as a CSV file.  We ran query in SQL to create and store the Boston Crime data found.   
+  
 
